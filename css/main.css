@@ -56,7 +56,7 @@
 }
 
 .main_card-date::before, .main_card-date::after {
-  content: "";
+  content: ".";
   background-color: #D7D7D7;
   height: 0.1875rem;
   border-radius: 50%;

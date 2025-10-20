@@ -4,11 +4,12 @@
   flex-wrap: wrap;
   justify-content: center;
   margin-top: 1.875rem;
+  margin-left: 50px;
 }
 
 .main_card {
   width: 25%;
-  margin: 0.5%, 2rem, 0;
+  margin: 0.5% 1.5rem 0.7%;
 }
 
 .main_card-img {
@@ -20,14 +21,14 @@
   font-weight: 700;
   color:#EB0028;
   font-size: 0.625rem;
-  margin: 0.5rem 0 0.8rem 0;
+  margin: 0.3rem 0 0.5rem 0;
 }
 
 .main_card-topic {
   font-weight: 700;
   font-size: 1.125rem;
   line-height: 1.25rem;
-  margin-bottom: 0.625rem
+  margin-bottom: 0.35rem
 }
 
 .main_card-description {
@@ -41,7 +42,7 @@
   font-size: 0.625rem;
   color: #929292;
   display: flex;
-  margin-bottom: 0.625rem
+  margin-bottom: 0.2rem
 }
 
 .main_card-author {
